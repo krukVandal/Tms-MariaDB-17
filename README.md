@@ -19,7 +19,12 @@
  - Создал две таблицы Students и courses и заполнил их
  - Чтоб применить левое соединение использовал 3 таблицу StudentsCourses
  - Само по себе левое подразумевает вытягивание данных из левой таблицы и даже если в правой таблице нет сопоставлений выводится null
+
+ <img width="1178" height="687" alt="image" src="https://github.com/user-attachments/assets/f8605c49-d69d-4d09-b6d2-330b9e5df99f" />
+
  - Написал запрос через левое соединение по id
+
+ <img width="1178" height="374" alt="image" src="https://github.com/user-attachments/assets/3a3c2917-01e6-47f4-8c1c-d1aaf19e7563" />
 
 # Задача 3:
  - Сделал дамп базы sudo mysqldump -u root -p LAB > BackupsDB/28.04.2026-dump.sql и проверил что дамп реально сделался
